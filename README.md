@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm a chatbot developer using IBM's Watson Assistant. I work on the project for the 'BIA' virtual assistant in Bradesco Seguros.
 <!--
 **vcjacome/vcjacome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
