@@ -7,8 +7,8 @@
 <p> 🎮 In my spare time I like to play. </p>
 
 ##### My badges:
- <p>[![IBM bagde](https://img.shields.io/badge/IBM-Watson%20Assistant%20Foundations-black.svg)](https://www.credly.com/badges/7e2fe879-7b7d-4300-81e7-87637aba218c?source=linked_in_profile)</p>
- <p>[![IBM bagde](https://img.shields.io/badge/IBM-Build%20Your%20Own%20Chatbot-black.svg)](https://www.credly.com/badges/6f2711b5-cf05-4513-a17b-d06e631cc399?source=linked_in_profile)</p>
+[![IBM bagde](https://img.shields.io/badge/IBM-Watson%20Assistant%20Foundations-black.svg)](https://www.credly.com/badges/7e2fe879-7b7d-4300-81e7-87637aba218c?source=linked_in_profile)
+[![IBM bagde](https://img.shields.io/badge/IBM-Build%20Your%20Own%20Chatbot-black.svg)](https://www.credly.com/badges/6f2711b5-cf05-4513-a17b-d06e631cc399?source=linked_in_profile)
  
 ##### How to reach me:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vjacome/) [![e-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vcesarjacome@gmail.com?subject=Oi,%20Victor!%20)
