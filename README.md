@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-🤖 I'm a chatbot developer using IBM's Watson Assistant. I work on the project for the 'BIA' virtual assistant in _Bradesco Seguros_.\n
-📚 I'm in the 4th semester of Computer Science at _Universidade Cidade de São Paulo_\n
-💼 Currently working at [Stefanini Group](https://stefanini.com/en)\n
-🗒️ [My CV](https://drive.google.com/file/d/1qYWdEnGvXdHWBlkIAAnxVXe_3W-GL0oZ/view?usp=drive_link)\n
-🎮 In my spare time I like to play.\n
+🤖 I'm a chatbot developer using IBM's Watson Assistant. I work on the project for the 'BIA' virtual assistant in _Bradesco Seguros_.
+📚 I'm in the 4th semester of Computer Science at _Universidade Cidade de São Paulo_
+💼 Currently working at [Stefanini Group](https://stefanini.com/en)
+🗒️ [My CV](https://drive.google.com/file/d/1qYWdEnGvXdHWBlkIAAnxVXe_3W-GL0oZ/view?usp=drive_link)
+🎮 In my spare time I like to play.
 
 ##### My badges:
  [![IBM bagde](https://img.shields.io/badge/IBM-Watson%20Assistant%20Foundations-black.svg)](https://www.credly.com/badges/7e2fe879-7b7d-4300-81e7-87637aba218c?source=linked_in_profile)
