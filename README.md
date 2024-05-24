@@ -6,7 +6,7 @@
 
 💼 Currently working at [Stefanini Group](https://stefanini.com/en).
 
-🎮 In my spare time I like to play.
+🎮 In my spare time I like to play games.
 
 🗒️ [My CV](https://drive.google.com/file/d/1qYWdEnGvXdHWBlkIAAnxVXe_3W-GL0oZ/view?usp=drive_link).
 
