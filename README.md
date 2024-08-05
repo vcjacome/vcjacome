@@ -2,7 +2,7 @@
 
 🤖 I'm a chatbot developer using IBM's Watson Assistant. I work on the project for the 'BIA' virtual assistant in _Bradesco Seguros_.
 
-📚 I'm in the 5th semester of Computer Science at _Universidade Cidade de São Paulo_.
+📚 I'm in the 6th semester of Computer Science at _Universidade Cidade de São Paulo_.
 
 💼 Currently working at [Stefanini Group](https://stefanini.com/en).
 
