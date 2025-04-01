@@ -8,7 +8,7 @@
 
 🎮 In my spare time I like to play games.
 
-🗒️ [My CV](https://drive.google.com/file/d/1fImacAtco76KpHCeHS9FHHfgui-wlto_/view?usp=drive_link).
+🗒️ [My CV](https://drive.google.com/file/d/1RpDD2Pes3WjDTkd0_1WeJ4WhEr0WLEBB/view?usp=sharing).
 
 ##### My badges:
  [![IBM bagde](https://img.shields.io/badge/IBM-Watson%20Assistant%20Foundations-black.svg)](https://www.credly.com/badges/7e2fe879-7b7d-4300-81e7-87637aba218c?source=linked_in_profile)
